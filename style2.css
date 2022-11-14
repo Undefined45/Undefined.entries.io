@@ -1,0 +1,35 @@
+
+body{
+padding:0px;
+margin:0px;
+background:linear-gradient(rgb(255, 255, 255),rgb(255, 255, 255));
+background-attachment:fixed;
+
+
+
+    background-color:rgb(255, 255, 255);
+}
+h1{
+   text-align:center;
+    color:white;
+    padding:30px;
+margin:0px;
+background-color:rgb(34, 29, 29);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:80px;
+    
+    
+    
+    
+    
+    
+    
+    }
+    h2{
+
+
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+    }
